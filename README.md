@@ -95,8 +95,8 @@ Welcome to the official repository of **Explore Inn**, a comprehensive hotel man
 - Access reports and analytics to monitor hotel performance.
 
 ## Contributors
-- **Sansita** (22011101049)
-- **Karthika** (22011101052)
+- **Sansita** 
+- **Karthika** 
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
@@ -106,7 +106,6 @@ Special thanks to all contributors and supporters of this project. Your efforts 
 
 ## Contact
 For any queries or issues, please reach out to us at:
-- [Your Email]
-- [Project's GitHub Issues Page]
+- sansitakarthik2005@gmail.com
 
 Thank you for using Explore Inn!
